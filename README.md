@@ -11,7 +11,7 @@ This project encompasses a comprehensive analysis of credit risk, including data
 3. **Task 3 - Feature Engineering**
 4. **Task 3.1 - Default Estimator and WoE Binning**
 5. **Task 4 - Modelling**
-6. **Installation**
+6. **Task 5 - Model Serving API Call**
 
 ---
 
