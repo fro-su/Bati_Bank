@@ -11,6 +11,7 @@ This project encompasses a comprehensive analysis of credit risk, including data
 3. **Task 3 - Feature Engineering**
 4. **Task 3.1 - Default Estimator and WoE Binning**
 5. **Task 4 - Modelling**
+6. **Installation**
 
 ---
 
@@ -127,3 +128,42 @@ This project encompasses a comprehensive analysis of credit risk, including data
 ## Conclusion
 
 This analysis provided a comprehensive approach to understanding credit risk, preparing data for modeling, and building and evaluating predictive models. The results highlight the effectiveness of the models in classifying users as high or low risk based on their transaction behaviors and other features.
+
+## Installation
+Getting Started
+Follow the instructions below to set up and run the project on your local machine.
+
+Prerequisites Ensure you have the following installed on your system:
+
+Python 3.x pip virtualenv
+
+Clone the repository
+
+Clone the project repository to your local machine using the following command:
+
+git clone https://github.com/fro-su/Bati_Bank
+
+Install dependencies
+
+Navigate to the project directory and create a virtual environment using virtualenv:
+
+cd Bati-Bank-Credit-Scoring-Model
+
+virtualenv venv
+
+Activate the virtual environment
+
+on Windows .\venv\Scripts\activate
+
+on Mac/Linus source venv/bin/activate
+
+Install dependencies
+
+With the virtual environment activated, install all the required packages from the
+requirements.txt file:
+
+pip install -r requirements.txt
+
+Run the application
+
+After installing the dependencies, you are all set! Run the application or script as needed.
